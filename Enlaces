@@ -134,3 +134,5 @@ plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb56
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="EuroSport 2 1080" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/eurosport_nueva_identidad_simbolo.jpg" ,EuroSport 2 1080
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-id="EuroSport 3 1080" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/eurosport_nueva_identidad_simbolo.jpg" ,EuroSport 3 1080
+plugin://script.module.horus?action=play&id=e454681a152a86da504e63694f17f90d0586867d
